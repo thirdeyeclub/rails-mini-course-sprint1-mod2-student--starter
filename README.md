@@ -1,4 +1,4 @@
-# Rails Mini Course - Sprint 1 - Module 2 - You Do (Solution)
+# Ruby on Rails - Ruby & Ruby on Rails Basics - Object-oriented Principles - Project
 
 For today's challenge we are going to act as librarians that are trying to keep track of our books.
 
