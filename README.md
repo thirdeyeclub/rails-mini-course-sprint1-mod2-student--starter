@@ -1,4 +1,4 @@
-# Ruby on Rails - Ruby & Ruby on Rails Basics - Object-oriented Principles - Project
+# Ruby on Rails - Ruby & Ruby on Rails Basics - Object-oriented Programming - Project
 
 For today's challenge we are going to act as librarians that are trying to keep track of our books.
 
